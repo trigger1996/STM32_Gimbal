@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C0 Old Footprint=C1206 New Footprint=1206A
+Change Component Footprint: Designator=C4 Old Footprint=C1206 New Footprint=1206A
+Change Component Footprint: Designator=C8 Old Footprint=C1206 New Footprint=1206A
+Added Room: Name=main

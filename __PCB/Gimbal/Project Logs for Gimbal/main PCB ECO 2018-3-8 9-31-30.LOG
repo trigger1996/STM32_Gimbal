@@ -1,0 +1,96 @@
+Added Component: Designator=C0(CC6.56.5)
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(CC6.56.5)
+Added Component: Designator=C5(0805)
+Added Component: Designator=C6(0805)
+Added Component: Designator=C7(0805)
+Added Component: Designator=C8(CC6.56.5)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=D0(DIODE-1206)
+Added Component: Designator=F0(1812)
+Added Component: Designator=Motor1_Out(HDR1X3)
+Added Component: Designator=Motor2_Out(HDR1X3)
+Added Component: Designator=MPU6050_EXT(HDR1X5)
+Added Component: Designator=Power(HDR1X2)
+Added Component: Designator=STM32_L(HDR2X22)
+Added Component: Designator=STM32_R(HDR2X22)
+Added Component: Designator=U0(TO-252)
+Added Component: Designator=U1(TO-252)
+Added Component: Designator=U2(TO-252)
+Added Pin To Net: NetName=5V_1 Pin=C2-2
+Added Pin To Net: NetName=5V_1 Pin=C3-2
+Added Pin To Net: NetName=5V_1 Pin=Motor1_Out-2
+Added Pin To Net: NetName=5V_1 Pin=U0-3
+Added Net: Name=5V_1
+Added Pin To Net: NetName=5V_2 Pin=C6-2
+Added Pin To Net: NetName=5V_2 Pin=C7-2
+Added Pin To Net: NetName=5V_2 Pin=Motor2_Out-2
+Added Pin To Net: NetName=5V_2 Pin=U1-3
+Added Net: Name=5V_2
+Added Pin To Net: NetName=5V_3 Pin=C10-2
+Added Pin To Net: NetName=5V_3 Pin=C11-2
+Added Pin To Net: NetName=5V_3 Pin=MPU6050_EXT-1
+Added Pin To Net: NetName=5V_3 Pin=STM32_R-1
+Added Pin To Net: NetName=5V_3 Pin=STM32_R-3
+Added Pin To Net: NetName=5V_3 Pin=U2-3
+Added Net: Name=5V_3
+Added Pin To Net: NetName=A15_INT Pin=MPU6050_EXT-5
+Added Pin To Net: NetName=A15_INT Pin=STM32_L-24
+Added Net: Name=A15_INT
+Added Pin To Net: NetName=B4_ROLL Pin=Motor1_Out-1
+Added Pin To Net: NetName=B4_ROLL Pin=STM32_L-37
+Added Net: Name=B4_ROLL
+Added Pin To Net: NetName=B5_PITCH Pin=Motor2_Out-1
+Added Pin To Net: NetName=B5_PITCH Pin=STM32_L-38
+Added Net: Name=B5_PITCH
+Added Pin To Net: NetName=B10_SCL Pin=MPU6050_EXT-3
+Added Pin To Net: NetName=B10_SCL Pin=STM32_R-7
+Added Net: Name=B10_SCL
+Added Pin To Net: NetName=B11_SDA Pin=MPU6050_EXT-4
+Added Pin To Net: NetName=B11_SDA Pin=STM32_R-8
+Added Net: Name=B11_SDA
+Added Pin To Net: NetName=GND Pin=C0-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=Motor1_Out-3
+Added Pin To Net: NetName=GND Pin=Motor2_Out-3
+Added Pin To Net: NetName=GND Pin=MPU6050_EXT-2
+Added Pin To Net: NetName=GND Pin=Power-1
+Added Pin To Net: NetName=GND Pin=STM32_R-5
+Added Pin To Net: NetName=GND Pin=STM32_R-6
+Added Pin To Net: NetName=GND Pin=U0-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD0_2 Pin=D0-2
+Added Pin To Net: NetName=NetD0_2 Pin=F0-1
+Added Net: Name=NetD0_2
+Added Pin To Net: NetName=VCC Pin=C0-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=VCC Pin=F0-2
+Added Pin To Net: NetName=VCC Pin=U0-1
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=D0-1
+Added Pin To Net: NetName=VIN Pin=Power-2
+Added Net: Name=VIN
+Added Class: Name=main
+Added Room: Name=main
